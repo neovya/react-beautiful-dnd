@@ -34,6 +34,7 @@ export default function Droppable(props: Props) {
     // own props
     children,
     droppableId,
+    scrollContainer,
     type,
     mode,
     direction,
@@ -80,6 +81,7 @@ export default function Droppable(props: Props) {
 
   useDroppablePublisher({
     droppableId,
+    scrollContainer,
     type,
     mode,
     direction,
