@@ -1,3 +1,9 @@
+------------------------------------------------------------------------------------------------------
+  
+This is a fork of [the official react-beautiful-dnd package](https://github.com/atlassian/react-beautiful-dnd) v13.1.0, with the modifications from a previous fork by [attio](https://github.com/attio/react-beautiful-dnd) that allows specification of a nested scrollbar container with the prop `scrollContainer` to Droppable 
+
+------------------------------------------------------------------------------------------------------
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png" alt="react beautiful dnd logo" />
 </p>
