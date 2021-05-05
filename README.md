@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------------------------------------
-  
-This is a fork of [the official react-beautiful-dnd package](https://github.com/atlassian/react-beautiful-dnd) v13.1.0, with the modifications from a previous fork by [attio](https://github.com/attio/react-beautiful-dnd) that allows specification of a nested scrollbar container with the prop `scrollContainer` to Droppable 
+ This is a fork of [the official react-beautiful-dnd package](https://github.com/atlassian/react-beautiful-dnd) v13.1.0, with the modifications from a previous fork by [attio](https://github.com/attio/react-beautiful-dnd) that allows specification of a nested scrollbar container with the prop `scrollContainer` to Droppable 
+
+ps: The build is included in the `list` branch, so that it can be pointed to in package.json of the main project. This way rbd doesn't have to be rebuilt on every main project build.
 
 ------------------------------------------------------------------------------------------------------
 
