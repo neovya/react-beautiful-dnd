@@ -54,7 +54,7 @@
     "storybook": "start-storybook -p 9002",
     "build-storybook": "build-storybook -c .storybook -o site",
     "prepublishOnly": "yarn build",
-    "prepare": "npm run build"
+    "prepare": "yarn run build"
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
