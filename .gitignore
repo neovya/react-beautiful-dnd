@@ -9,7 +9,8 @@ node_modules/
 .DS_Store
 
 # generated files
-dist/
+# dist/
+# We do want to push the dist on this branch, so that we don't have to rebuild everytime.
 
 # generated site
 site/
